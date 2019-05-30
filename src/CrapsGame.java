@@ -1,4 +1,4 @@
-/*Claudia Cota ID:60341850
+
 
 CrapsGame has the boolean playGame() method that contains the algorithm for a single craps game. It uses the CrapsMetricsMonitor
 class to update the statistics at the end of each game. It returns true if its a win and false if its a lose.*/
