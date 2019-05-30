@@ -1,5 +1,5 @@
 
-
+/*
 CrapsMetricsMonitor stores all the statistics information as the game is being played. It has all the methods needed to update,
 get, increment, or reset the statistic objects. It also has a public method that prints the statistic information in a readable
 format.*/
