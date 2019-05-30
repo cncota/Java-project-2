@@ -1,4 +1,4 @@
-/*Claudia Cota ID:60341850
+
 
 CrapsSimulation is the class that stores all the information needed for the user by requesting it directly to the user. It also 
 has the CrapsSimulation() method that runs the simulation of a game and the start() method that begins the game. It uses the 
